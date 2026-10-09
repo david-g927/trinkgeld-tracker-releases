@@ -4,24 +4,25 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ“¥ Neueste Version herunterladen (v1.6.0)
+### ðŸ“¥ Neueste Version herunterladen (v1.7.0)
 
-ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.6.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.7.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 
-- ðŸ” **Interaktiver Analyse-Drilldown & Schichten-Slider:** Beim Antippen von PLZ-Gebieten, Top-StraÃŸen, Wochentagen oder Schichten im Analyse-Screen Ã¶ffnet sich ein Schichten-Slider in der unteren BildschirmhÃ¤lfte mit allen relevanten Schichten.
-- ðŸ“± **Gesten-Steuerung im Schichten-Slider:** Dynamisches VergrÃ¶ÃŸern auf Vollbild beim Scrollen nach unten, ZurÃ¼ckverkleinern beim Erreichen des oberen Randes und direktes SchlieÃŸen durch Herunterziehen am oberen Zieh-Balken.
-- ðŸŽ¯ **Detaillierte Filter-Zusammenfassung:** Hervorhebung passender Stopps und Trinkgelder (z. B. Stopps im PLZ-Gebiet oder in der StraÃŸe) mit Schnellzugriff auf die vollstÃ¤ndigen Schichtdetails.
+- ðŸ’µ **Feierabend-Check & Bargeld-Kassensturz:** Beim Beenden einer Tour zeigt die App sofort den exakten Bar-Betrag im Portemonnaie zum direkten NachzÃ¤hlen sowie den Dienstag-Hinweis fÃ¼r Picnic Digital-Trinkgeld.
+- ðŸ›°ï¸ **Treppenhaus-GPS & Stale-Signal-Warnung:** Intelligenter Fallback auf den letzten Standort vor dem GebÃ¤ude und automatische Warnung ("Signal vor X Min. alt"), falls der GPS-Standort veraltet sein sollte.
+- ðŸ“ **Hintergrund-Standortzugriff ("Immer zulassen"):** UnterstÃ¼tzung fÃ¼r Hintergrund-Ortung, um Koordinaten auch bei gesperrtem Bildschirm im e-Sprinter dauerhaft frisch zu halten.
+- â° **Schicht-Erinnerung & Intelligentes Schichtende:** Automatische Benachrichtigung nach 6 Stunden und Schichtabschluss-Dialog beim App-Start mit automatischer Endzeit-Erkennung aus Schicht-Vorlagen (z. B. E1).
+- ðŸ“¦ **Zentrale Daten- & Backup-Verwaltung:** CSV-Export, CSV-Import und vollstÃ¤ndige JSON-Backups Ã¼bersichtlich in einem aufgerÃ¤umten MenÃ¼ gebÃ¼ndelt.
+- ðŸ“ **Button-Layout & SQLite Foreign Keys:** Perfekt ausgerichtetes 4-Spalten-Raster fÃ¼r Trinkgeld-Buttons und aktivierte SQLite Foreign-Key-Pragmas.
+- ðŸ” **Interaktiver Analyse-Drilldown & Schichten-Slider:** Interaktiver Schichten-Slider in der unteren BildschirmhÃ¤lfte beim Antippen von PLZ, StraÃŸen, Wochentagen oder Schichten.
 - ðŸ“ˆ **Trend-Graph & ZeitrÃ¤ume:** Analyse Ã¼ber Wochen, Monate und Halbjahre fÃ¼r langfristige Trends.
 - ðŸ¢ **HubHelp Schicht-Tracking:** Erfassung von Innendienst- und HubHelp-Schichten am Picnic Hub zur lÃ¼ckenlosen Arbeitszeiterfassung.
-- ðŸ›¡ï¸ **Statistik-Schutz:** Trinkgeld-Durchschnitte (â‚¬/h, Stopp-Durchschnitte, Quoten und Tour-Rankings) werden durch HubHelp-Stunden nicht verwÃ¤ssert.
-- â±ï¸ **Schicht-Filter & Historie:** Filter-Chips (Alle, Touren, HubHelp) in der Schicht-Historie sowie angepasste Karten- und Detailansichten.
-- â° **15 Offizielle Schicht-Zeitfenster (Hub KMN):** Alle 15 offiziellen Picnic Schichten als Standard-Vorlagen integriert.
-- âš¡ **Tempo- & Stundenmetriken:** Live-Anzeige von â‚¬/h und Drops/h im Banner, in Benachrichtigungen und auf Schichtkarten.
+- ðŸ›¡ï¸ **Statistik-Schutz:** Trinkgeld-Durchschnitte (â‚¬/h, Stopp-Durchschnitte, Quoten) werden durch HubHelp-Stunden nicht verwÃ¤ssert.
 - ðŸ”„ **In-App Auto-Updater:** Automatische Erkennung und Download neuer Versionen direkt aus der App.
 
 ---
