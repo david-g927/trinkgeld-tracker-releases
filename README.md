@@ -1,37 +1,62 @@
-﻿# ðŸ¥• Picnic Trinkgeld-Tracker â€“ Offizielle Releases & Downloads
+# Picnic Trinkgeld-Tracker
 
-Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Trackers**!
+Android-App zur Erfassung und Auswertung von Trinkgeldern und Schichten im Picnic-Lieferalltag. Dieses Repository stellt die APK zum Download bereit; es enthält nicht den Quellcode der App.
 
----
+## Download
 
-### ðŸ“¥ Neueste Version herunterladen (v1.10.0)
+Aktueller Download-Stand: v1.10.0
 
-ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.10.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+[Picnic-Trinkgeld-Tracker.apk herunterladen](https://github.com/david-g927/trinkgeld-tracker-releases/raw/refs/heads/main/Picnic-Trinkgeld-Tracker.apk)
 
-Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
+Der Link führt direkt zur APK-Datei auf dem Branch `main`. Die Datei wird bei neuen Versionen ersetzt.
 
----
+## Funktionsumfang
 
-### ðŸš€ Was ist neu in Version 
-- ðŸ’µ **Feierabend-Check & Bargeld-Kassensturz:** Beim Beenden einer Tour zeigt die App sofort den exakten Bar-Betrag im Portemonnaie zum direkten NachzÃ¤hlen sowie den Dienstag-Hinweis fÃ¼r Picnic Digital-Trinkgeld.
-- ðŸ›°ï¸ **Treppenhaus-GPS & Stale-Signal-Warnung:** Intelligenter Fallback auf den letzten Standort vor dem GebÃ¤ude und automatische Warnung ("Signal vor X Min. alt"), falls der GPS-Standort veraltet sein sollte.
-- ðŸ“ **Hintergrund-Standortzugriff ("Immer zulassen"):** UnterstÃ¼tzung fÃ¼r Hintergrund-Ortung, um Koordinaten auch bei gesperrtem Bildschirm im e-Sprinter dauerhaft frisch zu halten.
-- â° **Schicht-Erinnerung & Intelligentes Schichtende:** Automatische Benachrichtigung nach 6 Stunden und Schichtabschluss-Dialog beim App-Start mit automatischer Endzeit-Erkennung aus Schicht-Vorlagen (z. B. E1).
-- ðŸ“¦ **Zentrale Daten- & Backup-Verwaltung:** CSV-Export, CSV-Import und vollstÃ¤ndige JSON-Backups Ã¼bersichtlich in einem aufgerÃ¤umten MenÃ¼ gebÃ¼ndelt.
-- ðŸ“ **Button-Layout & SQLite Foreign Keys:** Perfekt ausgerichtetes 4-Spalten-Raster fÃ¼r Trinkgeld-Buttons und aktivierte SQLite Foreign-Key-Pragmas.
-- ðŸ” **Interaktiver Analyse-Drilldown & Schichten-Slider:** Interaktiver Schichten-Slider in der unteren BildschirmhÃ¤lfte beim Antippen von PLZ, StraÃŸen, Wochentagen oder Schichten.
-- ðŸ“ˆ **Trend-Graph & ZeitrÃ¤ume:** Analyse Ã¼ber Wochen, Monate und Halbjahre fÃ¼r langfristige Trends.
-- ðŸ¢ **HubHelp Schicht-Tracking:** Erfassung von Innendienst- und HubHelp-Schichten am Picnic Hub zur lÃ¼ckenlosen Arbeitszeiterfassung.
-- ðŸ›¡ï¸ **Statistik-Schutz:** Trinkgeld-Durchschnitte (â‚¬/h, Stopp-Durchschnitte, Quoten) werden durch HubHelp-Stunden nicht verwÃ¤ssert.
-- ðŸ”„ **In-App Auto-Updater:** Automatische Erkennung und Download neuer Versionen direkt aus der App.
+- Trinkgeld-Auswertung: Analysen nach Postleitzahl, Straße, Wochentag und Schicht sowie Trenddarstellungen über Wochen, Monate und Halbjahre.
+- Interaktive Analysen: Detailansichten der zugehörigen Schichten beim Antippen einer Auswertung.
+- Schicht-Erfassung: Unterstützung für Liefer-, Innendienst- und HubHelp-Schichten. HubHelp-Stunden werden bei den Trinkgeld-Kennzahlen gesondert behandelt.
+- Schicht-Erinnerungen: Benachrichtigung nach sechs Stunden und Unterstützung beim Schichtabschluss anhand hinterlegter Schichtvorlagen.
+- Feierabend-Check: Übersicht zum erfassten Bargeld-Trinkgeld am Ende einer Tour.
+- Standort-Unterstützung: Rückgriff auf den letzten bekannten Standort bei fehlendem GPS-Signal und Hinweis auf veraltete Standortdaten. Hintergrund-Ortung wird mit entsprechender Berechtigung unterstützt.
+- Datenverwaltung: CSV-Import, CSV-Export sowie vollständige JSON-Backups und Wiederherstellung.
+- In-App-Updater: Funktion zur Erkennung und zum Download neuer App-Versionen.
 
----
+Diese Übersicht beschreibt den dokumentierten Funktionsumfang. Sie ist kein versionsspezifisches Änderungsprotokoll für v1.10.0.
 
-### ðŸ“± Installationshinweis fÃ¼r Android
-1. Lade die Datei **Picnic-Trinkgeld-Tracker.apk** herunter.
-2. Ã–ffne die Datei auf deinem Android-Smartphone.
-3. Falls gefragt, erlaube die *Installation aus unbekannten Quellen* fÃ¼r deinen Browser / Dateimanager.
-4. Tippe auf **Installieren** bzw. **Aktualisieren** â€“ deine bisher erfassten Trinkgelder und Daten bleiben vollstÃ¤ndig erhalten!
+## Installation auf Android
 
----
-*Hinweis: Dieses Repository dient ausschlieÃŸlich als Distributions- und Download-Portal.*
+1. Lade die APK über den Download-Link auf dein Android-Gerät herunter.
+2. Öffne `Picnic-Trinkgeld-Tracker.apk` über die Downloads oder deinen Dateimanager.
+3. Falls Android danach fragt, erlaube deinem Browser oder Dateimanager die Installation unbekannter Apps. Erteile diese Berechtigung nur für eine Quelle, der du vertraust.
+4. Tippe auf „Installieren“ und öffne anschließend die App.
+5. Die Erlaubnis zur Installation unbekannter Apps kannst du danach wieder deaktivieren.
+
+Die Bezeichnungen der Android-Menüs können je nach Gerät und Android-Version abweichen.
+
+## Vorhandene Installation aktualisieren
+
+1. Erstelle vor dem Update ein JSON-Backup über die Daten- und Backup-Verwaltung der App.
+2. Lade die aktuelle APK herunter und öffne sie.
+3. Wähle „Aktualisieren“, sofern Android die Datei als Update der installierten App erkennt.
+
+Deinstalliere die bestehende App nicht vorsorglich. Sichere deine Daten, bevor du eine Neuinstallation oder Fehlerbehebung durchführst.
+
+## Berechtigungen
+
+Für die beschriebenen Standort- und Erinnerungsfunktionen können entsprechende Android-Berechtigungen erforderlich sein:
+
+- Standort: zur Erfassung von Koordinaten.
+- Hintergrund-Standort: für die Standort-Erfassung bei gesperrtem Bildschirm, sofern du diese Funktion nutzen möchtest.
+- Benachrichtigungen: für Schicht-Erinnerungen.
+
+## Versionen und Veröffentlichungen
+
+Der aktuelle Download wird direkt als APK in diesem Repository bereitgestellt. Zum Zeitpunkt dieser README-Überarbeitung sind keine GitHub-Releases veröffentlicht.
+
+Die [Commit-Historie](https://github.com/david-g927/trinkgeld-tracker-releases/commits/main/) dokumentiert die bisherigen Datei-Updates.
+
+## Fehler melden und Feedback geben
+
+[Fehler oder Verbesserungsvorschlag melden](https://github.com/david-g927/trinkgeld-tracker-releases/issues/new)
+
+Bitte gib dabei die App-Version, deine Android-Version, das Gerätemodell und die Schritte zum Nachstellen an. Füge gegebenenfalls einen Screenshot ohne persönliche Daten hinzu. Veröffentliche keine Backups, genauen Standortdaten oder anderen sensiblen Informationen.
