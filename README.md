@@ -4,15 +4,17 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ“¥ Neueste Version herunterladen (v1.11.0)
+### ðŸ“¥ Neueste Version herunterladen (v1.12.0)
 
-ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.11.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.12.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸŽ¯ **Trinkgeld-Ziel PrÃ¤zisierung:** VollstÃ¤ndige Behebung der Wochen- vs. Monatsziel-Inkonsistenz â€“ Wochenziele berechnen und visualisieren nun exakt die laufende Kalenderwoche.
+- ðŸ”” **Benachrichtigungs-IntegritÃ¤t:** Eindeutige Trennung aller Android-Notification-IDs zur Vermeidung von Kollisionen zwischen Schnell-Speicher-BestÃ¤tigung und 6h-Schicht-Erinnerung.
 - ðŸ’µ **Feierabend-Check & Bargeld-Kassensturz:** Beim Beenden einer Tour zeigt die App sofort den exakten Bar-Betrag im Portemonnaie zum direkten NachzÃ¤hlen sowie den Dienstag-Hinweis fÃ¼r Picnic Digital-Trinkgeld.
 - ðŸ›°ï¸ **Treppenhaus-GPS & Stale-Signal-Warnung:** Intelligenter Fallback auf den letzten Standort vor dem GebÃ¤ude und automatische Warnung ("Signal vor X Min. alt"), falls der GPS-Standort veraltet sein sollte.
 - ðŸ“ **Hintergrund-Standortzugriff ("Immer zulassen"):** UnterstÃ¼tzung fÃ¼r Hintergrund-Ortung, um Koordinaten auch bei gesperrtem Bildschirm im e-Sprinter dauerhaft frisch zu halten.
