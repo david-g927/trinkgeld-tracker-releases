@@ -4,15 +4,18 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ“¥ Neueste Version herunterladen (v1.15.0)
+### ðŸ“¥ Neueste Version herunterladen (v1.16.0)
 
-ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.15.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.16.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ“‹ **LÃ¼ckenlose Multi-Version Changelogs:** Wenn du mehrere App-Updates auf einmal Ã¼berspringst, zeigt der â€žWas ist neuâ€œ-Dialog nun Ã¼bersichtlich alle Neuerungen aller Ã¼bersprungenen Versionen chronologisch untereinander an.
+- ðŸ“œ **Versionshistorie & Notizen:** Alle historischen Update-Highlights kÃ¶nnen jetzt jederzeit direkt Ã¼ber die Einstellungen (â€žVersionshistorie & Changelogâ€œ) nachgelesen werden.
+- âš¡ **Optimierte Update-PrÃ¼fung:** Schnellere Erkennung und zuverlÃ¤ssigere Anzeige von neuen Versionen direkt auf GitHub.
 - ðŸŽ¨ **Neues App-Icon & Android Adaptive Icons:** EigenstÃ¤ndiges, modernes App-Icon im Picnic-Design mit goldener Trinkgeld-MÃ¼nze und weiÃŸer Lieferwagen-Silhouette fÃ¼r alle Android Launcher (Kreis, Squircle, Rund).
 - â¸ï¸ **Pause-Modus wÃ¤hrend der Schicht:** Schneller Toggle zum Pausieren und Fortsetzen direkt auf dem Schicht-Banner.
 - â˜• **Pausen-Ãœbersicht & Nachtrag:** Netto-Arbeitszeit und Netto-Stundenschnitt bei Schichtende einsehen und Pausen flexibel anpassen (+15 Min, +30 Min).
