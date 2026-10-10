@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ“¥ Neueste Version herunterladen (v1.13.0)
+### ðŸ“¥ Neueste Version herunterladen (v1.14.0)
 
-ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.13.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.14.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
