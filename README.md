@@ -4,17 +4,19 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.17.0-beta.3)
+### ðŸ“¥ Neueste Version herunterladen (v1.17.0)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.17.0-beta.3)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
-
-ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.17.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ’¡ **Kunden-GedÃ¤chtnis & Adress-Notizen:** Erkennt automatisch wiederholte Lieferadressen, zeigt bisherige Trinkgeld-Erfahrungen und erlaubt das Speichern wichtiger Adress-Notizen (z. B. TÃ¼rcodes, Klingeln, Etagen und Besonderheiten).
+- âœï¸ **Automatische Adress-VorausfÃ¼llung:** Bei manueller Adresskorrektur wird die erkannte Adresse sofort vorbelegt, sodass bei Bedarf nur noch die Hausnummer angepasst werden muss.
+- ðŸ“¤ **Schicht-Teilen & Bildkarten-Export:** Schichtergebnisse direkt nach Feierabend oder aus der Schichtenliste als formatierten Messenger-Text oder Bildkarte (PNG) mit Trinkgeld, Stopps, Schnitt und Quote teilen.
+- âš¡ **Schnelleinsicht & 1-Tap Notiz-Speicherung:** Direkte Notizenvorschau bei der Trinkgeldeingabe und praktische 1-Tap-Option zum dauerhaften Speichern von Kundennotizen.
 - ðŸ“‹ **LÃ¼ckenlose Multi-Version Changelogs:** Wenn du mehrere App-Updates auf einmal Ã¼berspringst, zeigt der â€žWas ist neuâ€œ-Dialog nun Ã¼bersichtlich alle Neuerungen aller Ã¼bersprungenen Versionen chronologisch untereinander an.
 - ðŸ“œ **Versionshistorie & Notizen:** Alle historischen Update-Highlights kÃ¶nnen jetzt jederzeit direkt Ã¼ber die Einstellungen (â€žVersionshistorie & Changelogâ€œ) nachgelesen werden.
 - âš¡ **Optimierte Update-PrÃ¼fung:** Schnellere Erkennung und zuverlÃ¤ssigere Anzeige von neuen Versionen direkt auf GitHub.
