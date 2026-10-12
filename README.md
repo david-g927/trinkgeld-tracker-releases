@@ -4,17 +4,19 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.18.0-beta.9)
+### ðŸ“¥ Neueste Version herunterladen (v1.18.0)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.18.0-beta.9)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
-
-ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.18.0)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ“± **Android Homescreen-Widget:** Behalte deine Schicht und dein Trinkgeld direkt auf dem Startbildschirm im Blick â€“ inklusive Schnelltasten (+0,50 â‚¬, +1 â‚¬, +2 â‚¬), die blitzschnell im Hintergrund verbuchen.
+- âš¡ **Android App-Shortcuts:** Direkter Schichtstart und Express-Trinkgeldeingabe per Langdruck auf das App-Icon.
+- ðŸ“Š **Echtzeit-Berechnung & Tempo-Ticker:** Live-Berechnung von Stundenschnitt (â‚¬/h) und Stopp-Geschwindigkeit (Drops/h) ab der ersten Minute sowie Durchschnittsanzeige im Widget.
+- ðŸŽ¨ **AufgerÃ¤umtes Design & MenÃ¼fÃ¼hrung:** Logisch strukturierte Einstellungen, fehlerfreie Layouts ohne TextÃ¼berlÃ¤ufe und einheitliche mobile UI.
 - ðŸ’¡ **Kunden-GedÃ¤chtnis & Adress-Notizen:** Erkennt automatisch wiederholte Lieferadressen, zeigt bisherige Trinkgeld-Erfahrungen und erlaubt das Speichern wichtiger Adress-Notizen (z. B. TÃ¼rcodes, Klingeln, Etagen und Besonderheiten).
 - âœï¸ **Automatische Adress-VorausfÃ¼llung:** Bei manueller Adresskorrektur wird die erkannte Adresse sofort vorbelegt, sodass bei Bedarf nur noch die Hausnummer angepasst werden muss.
 - ðŸ“¤ **Schicht-Teilen & Bildkarten-Export:** Schichtergebnisse direkt nach Feierabend oder aus der Schichtenliste als formatierten Messenger-Text oder Bildkarte (PNG) mit Trinkgeld, Stopps, Schnitt und Quote teilen.
