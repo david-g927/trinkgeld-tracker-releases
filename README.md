@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.11)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.12)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.11)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.12)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,8 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ“ **GebÃ¤ude-Pin auf der Karte:** WÃ¤hle deine Lieferadresse bei Bedarf direkt per Fingertipp auf ein GebÃ¤ude auf der Karte aus â€“ StraÃŸe und Hausnummer werden per Reverse-Geocoding automatisch ermittelt und Ã¼bernommen.
+- ðŸ“Š **PrÃ¤zise Trinkgeld-Quote in der Analyse:** Auswertung der Kundenquote fokussiert sich gezielt auf Auslieferungen ab dem 11.10., wodurch gleichverteilte historische Altdaten die Quote nicht mehr verfÃ¤lschen.
 - ðŸ—ºï¸ **Optimierte Kartenansicht:** Die Kartenwerkzeuge (Zoom und Zentrieren) wurden nach oben rechts verlegt, sodass alle TrinkgeldbetrÃ¤ge und Stopps in den Detailkarten jederzeit vollstÃ¤ndig sichtbar und tippbar sind.
 - ðŸ“ **Eigener Standort auf der Karte:** Zeigt deinen aktuellen GPS-Standort als auffÃ¤lligen, blau leuchtenden Marker direkt auf der Lieferkarte an.
 - ðŸŽ¯ **GPS-Standortabruf fÃ¼r manuelle Adressen:** Im manuellen Adressfeld erfasst der Standort-Button den Standort auf Knopfdruck neu und trÃ¤gt StraÃŸe und Hausnummer automatisch ein.
