@@ -14,7 +14,7 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 
 ---
 
-### 🚀 Was ist neu in Version 
+### 🚀 Was ist neu in Version 1.19.0?
 - 🔒 **Sicherheitsabfrage beim Daten-Reset:** Die Funktion „Alle Daten zurücksetzen“ ist nun durch eine 2-stufige Bestätigung vor versehentlichem Löschen geschützt.
 - 🧹 **Bereinigte Menüführung:** Entfernung ungenutzter Demodaten-Optionen für eine aufgeräumte und übersichtliche Einstellungsoberfläche.
 - 📍 **Gebäude-Pin auf der Karte:** Wähle deine Lieferadresse bei Bedarf direkt per Fingertipp auf ein Gebäude auf der Karte aus – Straße und Hausnummer werden per Reverse-Geocoding automatisch ermittelt und übernommen.
