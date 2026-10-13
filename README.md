@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.8)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.9)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.8)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.9)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,13 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ“Š **Erweiterte Analyse-Sortierung:** Schichten, Wochentage und PLZ-Gebiete flexibel nach Durchschnitt (Ã˜ Schnitt, Ã˜ pro Schicht, Ã˜ pro Stunde) oder Gesamtsumme sortieren.
+- ðŸ“ˆ **Prozentuale Trend-Entwicklung:** Interaktives Balkendiagramm zeigt unter jedem Balken die exakte prozentuale Entwicklung im Vergleich zum vorherigen Zeitraum.
+- ðŸ“Š **Tagesabschluss & Von-Bis-Auswertung:** Neuer Tagesabschluss-Button direkt auf dem Startbildschirm mit exakter Von-Bis-Arbeitszeit, Schichtpausen sowie Pausen zwischen zwei Schichten, tatsÃ¤chlicher Arbeitszeit (Netto) und direktem Teilen des Tages-Trinkgelds.
+- ðŸ“ˆ **Wochenabschluss & Samstags-Zusammenfassung:** Samstags nach der letzten Tour steht dein vollstÃ¤ndiger Wochenabschluss mit allen Arbeitszeiten, Pausen und Trinkgeldern bereit zum Teilen.
+- â° **Flexible Schicht-Erinnerungen:** WÃ¤hle mehrere Vorlaufzeiten gleichzeitig aus (z. B. 60 Min. und 15 Min.), um rechtzeitig an deine Schichten erinnert zu werden.
+- ðŸ§¹ **Automatische Dienstplan-Bereinigung:** Geplante Touren verschwinden automatisch aus den VorschlÃ¤gen, sobald sie absolviert und beendet wurden oder ihre Endzeit Ã¼berschritten ist â€“ Schichtenhistorie bleibt dauerhaft erhalten.
+- ðŸ“… **Picnic Online-Kalender-Sync & Routenzeiten:** Verbinde deinen persÃ¶nlichen Dienstplan-Link (ICS) â€“ Schichten, Zeiten und Hubs werden automatisch synchronisiert und Vorab-Zeiten auf finale Routenzeiten aktualisiert.
 - ðŸ“± **Android Homescreen-Widget:** Behalte deine Schicht und dein Trinkgeld direkt auf dem Startbildschirm im Blick â€“ inklusive Schnelltasten (+0,50 â‚¬, +1 â‚¬, +2 â‚¬), die blitzschnell im Hintergrund verbuchen.
 - âš¡ **Android App-Shortcuts:** Direkter Schichtstart und Express-Trinkgeldeingabe per Langdruck auf das App-Icon.
 - ðŸ“Š **Echtzeit-Berechnung & Tempo-Ticker:** Live-Berechnung von Stundenschnitt (â‚¬/h) und Stopp-Geschwindigkeit (Drops/h) ab der ersten Minute sowie Durchschnittsanzeige im Widget.
