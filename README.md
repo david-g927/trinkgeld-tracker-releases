@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.10)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.11)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.10)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.11)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,9 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ—ºï¸ **Optimierte Kartenansicht:** Die Kartenwerkzeuge (Zoom und Zentrieren) wurden nach oben rechts verlegt, sodass alle TrinkgeldbetrÃ¤ge und Stopps in den Detailkarten jederzeit vollstÃ¤ndig sichtbar und tippbar sind.
+- ðŸ“ **Eigener Standort auf der Karte:** Zeigt deinen aktuellen GPS-Standort als auffÃ¤lligen, blau leuchtenden Marker direkt auf der Lieferkarte an.
+- ðŸŽ¯ **GPS-Standortabruf fÃ¼r manuelle Adressen:** Im manuellen Adressfeld erfasst der Standort-Button den Standort auf Knopfdruck neu und trÃ¤gt StraÃŸe und Hausnummer automatisch ein.
 - ðŸ–¼ï¸ **Bildkarten-Export fÃ¼r Tages- & Wochenabschluss:** Teile deine Arbeitszeiten, Pausen und Trinkgeldstatistiken direkt als hochwertige Bildkarte (PNG) statt als reinen Text.
 - ðŸ’¬ **Nachricht fÃ¼r R+ mit 1-Tap:** Vordefiniertes Nachrichtenfeld im Tagesabschluss ([FrÃ¼hster Anfangszeitpunkt] bis [FrÃ¼hster Endzeitpunkt] mit [Pausenzeit gesamt] Minuten Pause) mit Direktexport und Kopieren.
 - ðŸ“Š **Erweiterte Analyse-Sortierung:** Schichten, Wochentage und PLZ-Gebiete flexibel nach Durchschnitt (Ã˜ Schnitt, Ã˜ pro Schicht, Ã˜ pro Stunde) oder Gesamtsumme sortieren.
