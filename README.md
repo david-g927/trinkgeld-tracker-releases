@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.9)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.10)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.9)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.10)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,8 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 
+- ðŸ–¼ï¸ **Bildkarten-Export fÃ¼r Tages- & Wochenabschluss:** Teile deine Arbeitszeiten, Pausen und Trinkgeldstatistiken direkt als hochwertige Bildkarte (PNG) statt als reinen Text.
+- ðŸ’¬ **Nachricht fÃ¼r R+ mit 1-Tap:** Vordefiniertes Nachrichtenfeld im Tagesabschluss ([FrÃ¼hster Anfangszeitpunkt] bis [FrÃ¼hster Endzeitpunkt] mit [Pausenzeit gesamt] Minuten Pause) mit Direktexport und Kopieren.
 - ðŸ“Š **Erweiterte Analyse-Sortierung:** Schichten, Wochentage und PLZ-Gebiete flexibel nach Durchschnitt (Ã˜ Schnitt, Ã˜ pro Schicht, Ã˜ pro Stunde) oder Gesamtsumme sortieren.
 - ðŸ“ˆ **Prozentuale Trend-Entwicklung:** Interaktives Balkendiagramm zeigt unter jedem Balken die exakte prozentuale Entwicklung im Vergleich zum vorherigen Zeitraum.
 - ðŸ“Š **Tagesabschluss & Von-Bis-Auswertung:** Neuer Tagesabschluss-Button direkt auf dem Startbildschirm mit exakter Von-Bis-Arbeitszeit, Schichtpausen sowie Pausen zwischen zwei Schichten, tatsÃ¤chlicher Arbeitszeit (Netto) und direktem Teilen des Tages-Trinkgelds.
