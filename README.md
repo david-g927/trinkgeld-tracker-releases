@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.15)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.16)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.15)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.16)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,8 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 1.19.0?
+- ðŸ† **Community-Rangliste & Orts-Radar:** Vergleiche deine Schichten anonym in der neuen Community-Rangliste (nach Gesamtsumme, Ã˜ Schnitt pro Stop und Trinkgeld-Quote) und entdecke im Orts-Radar, in welchen StÃ¤dten und Liefergebieten das meiste Trinkgeld gegeben wird â€“ mit 100 % Datenschutz (nur Summenwerte, keine Adressen oder GPS-Daten).
+- ðŸ“² **Dateien direkt empfangen & importieren:** Empfange geteilte Backups (.json) und Schicht-Tabellen (.csv) direkt aus WhatsApp, E-Mail oder deinem Dateimanager â€“ die Trinkgeld-Tracker-App Ã¶ffnet sofort die Vorschau und den Import per Fingertipp.
 - â° **Geplante Schichten flexibel starten:** Beim Starten einer vorgemerkten Tour kannst du nun wÃ¤hlen, ob die Schicht zur geplanten Dienstplan-Uhrzeit oder sofort beginnt â€“ ideal, wenn das Smartphone zu Schichtbeginn bereits verstaut ist.
 - ðŸ”’ **Sicherheitsabfrage beim Daten-Reset:** Die Funktion â€žAlle Daten zurÃ¼cksetzenâ€œ ist nun durch eine 2-stufige BestÃ¤tigung vor versehentlichem LÃ¶schen geschÃ¼tzt.
 - ðŸ§¹ **Bereinigte MenÃ¼fÃ¼hrung:** Entfernung ungenutzter Demodaten-Optionen fÃ¼r eine aufgerÃ¤umte und Ã¼bersichtliche EinstellungsoberflÃ¤che.
