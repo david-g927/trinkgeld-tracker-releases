@@ -4,26 +4,18 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.1-beta.3)
+### ðŸ“¥ Neueste Version herunterladen (v1.19.1)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.1-beta.3)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
-
-ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+ðŸ‘‰ **[Direkter Download: Picnic-Trinkgeld-Tracker.apk (v1.19.1)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
 Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
 ### ðŸš€ Was ist neu in Version 1.19.1?
-- ðŸ† **Community-Rangliste & Orts-Radar:** Vergleiche deine Schichten anonym in der neuen Community-Rangliste (nach Gesamtsumme, Ã˜ Schnitt pro Stop und Trinkgeld-Quote) und entdecke im Orts-Radar die lukrativsten Liefergebiete â€“ 100 % datenschutzkonform und freiwillig.
-- ðŸ“² **Dateien direkt empfangen & importieren:** Empfange geteilte Backups (.json) und Schicht-Tabellen (.csv) direkt aus WhatsApp, E-Mail oder Dateimanager mit sofortiger Vorschau und 1-Tap-Import.
-- â° **Geplante Schichten flexibel starten:** Beim Starten einer vorgemerkten Tour frei wÃ¤hlen, ob die Schicht zur geplanten Dienstplan-Uhrzeit oder sofort beginnt.
-- ðŸ“… **Picnic Online-Kalender-Sync:** Verbinde deinen persÃ¶nlichen Dienstplan-Link (ICS) â€“ Schichten, Zeiten und Hubs werden automatisch synchronisiert und Vorab-Zeiten dynamisch auf finale Routenzeiten angepasst.
-- â° **Flexible Schicht-Erinnerungen & Dienstplan-Bereinigung:** Konfigurierbare Benachrichtigungen vor Tourbeginn (15 Min. bis 3 Std.) und automatisches Ausblenden bereits beendeter Touren.
-- ðŸ“Š **Tages- & Wochenabschluss mit Bildkarten:** Exakte Netto-Arbeitszeiten, Pausen-Ãœbersicht, 1-Tap-Nachricht fÃ¼r R+ sowie hochwertige Bildkarten (PNG) zum Teilen.
-- ðŸ“ **GebÃ¤ude-Auswahl & GPS auf der Karte:** Adressauswahl per Fingertipp auf GebÃ¤ude auf der Karte, eigener GPS-Standortmarker und SchnellÃ¼bernahme im manuellen Adressfeld.
-- ðŸ“ˆ **Erweiterte Analyse & Trends:** Schichten und Gebiete flexibel nach Durchschnitt oder Summe sortieren, interaktives Trenddiagramm mit %-Entwicklung und bereinigte Kundenquote.
-- ðŸŒ™ **Dark Mode Feinschliff & StabilitÃ¤t:** Perfekt lesbare Kontraste in Schichtdetails und digitalem Trinkgeld sowie 2-stufige Sicherheitsabfrage beim ZurÃ¼cksetzen von Daten.
+- ðŸ“± **Neue Android Homescreen-Widgets:** Drei brandneue Widgets fÃ¼r deinen Startbildschirm â€“ das **Schnell-Trinkgeld (Quick-Tip)** Widget zum sekundenschnellen Eintragen von Trinkgeld (+0,50 â‚¬, +1 â‚¬, +2 â‚¬), die **Monats-Statistik** fÃ¼r den schnellen MonatsÃ¼berblick und die **NÃ¤chste Tour** mit Datum, Uhrzeit und Hub auf einen Blick.
+- ðŸ“ **Frei skalierbare Widgets & verbesserte Launcher-Ansicht:** Alle Widgets passen sich flexibel an dein Homescreen-Raster an. Klare Beschreibungen in der Widget-Auswahl erleichtern das HinzufÃ¼gen.
+- ðŸ† **Community-Rangliste & Leaderboard Feinschliff:** Noch zuverlÃ¤ssigere Synchronisation, verbesserte Filter nach Hubs und optimierte Datenaktualisierung.
 
 ---
 
