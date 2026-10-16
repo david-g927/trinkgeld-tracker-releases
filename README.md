@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.18)
+### ðŸ§ª Neueste Beta-Version herunterladen (v1.19.0-beta.19)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.18)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.19.0-beta.19)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,54 +15,15 @@ Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](
 ---
 
 ### ðŸš€ Was ist neu in Version 1.19.0?
-- ðŸ† **Community-Rangliste & Orts-Radar:** Vergleiche deine Schichten anonym in der neuen Community-Rangliste (nach Gesamtsumme, Ã˜ Schnitt pro Stop und Trinkgeld-Quote) und entdecke im Orts-Radar, in welchen StÃ¤dten und Liefergebieten das meiste Trinkgeld gegeben wird â€“ mit 100 % Datenschutz (nur Summenwerte, keine Adressen oder GPS-Daten).
-- ðŸ“² **Dateien direkt empfangen & importieren:** Empfange geteilte Backups (.json) und Schicht-Tabellen (.csv) direkt aus WhatsApp, E-Mail oder deinem Dateimanager â€“ die Trinkgeld-Tracker-App Ã¶ffnet sofort die Vorschau und den Import per Fingertipp.
-- â° **Geplante Schichten flexibel starten:** Beim Starten einer vorgemerkten Tour kannst du nun wÃ¤hlen, ob die Schicht zur geplanten Dienstplan-Uhrzeit oder sofort beginnt â€“ ideal, wenn das Smartphone zu Schichtbeginn bereits verstaut ist.
-- ðŸ”’ **Sicherheitsabfrage beim Daten-Reset:** Die Funktion â€žAlle Daten zurÃ¼cksetzenâ€œ ist nun durch eine 2-stufige BestÃ¤tigung vor versehentlichem LÃ¶schen geschÃ¼tzt.
-- ðŸ§¹ **Bereinigte MenÃ¼fÃ¼hrung:** Entfernung ungenutzter Demodaten-Optionen fÃ¼r eine aufgerÃ¤umte und Ã¼bersichtliche EinstellungsoberflÃ¤che.
-- ðŸ“ **GebÃ¤ude-Pin auf der Karte:** WÃ¤hle deine Lieferadresse bei Bedarf direkt per Fingertipp auf ein GebÃ¤ude auf der Karte aus â€“ StraÃŸe und Hausnummer werden per Reverse-Geocoding automatisch ermittelt und Ã¼bernommen.
-- ðŸ“Š **PrÃ¤zise Trinkgeld-Quote in der Analyse:** Auswertung der Kundenquote fokussiert sich gezielt auf Auslieferungen ab dem 11.10., wodurch gleichverteilte historische Altdaten die Quote nicht mehr verfÃ¤lschen.
-- ðŸ—ºï¸ **Optimierte Kartenansicht:** Die Kartenwerkzeuge (Zoom und Zentrieren) wurden nach oben rechts verlegt, sodass alle TrinkgeldbetrÃ¤ge und Stopps in den Detailkarten jederzeit vollstÃ¤ndig sichtbar und tippbar sind.
-- ðŸ“ **Eigener Standort auf der Karte:** Zeigt deinen aktuellen GPS-Standort als auffÃ¤lligen, blau leuchtenden Marker direkt auf der Lieferkarte an.
-- ðŸŽ¯ **GPS-Standortabruf fÃ¼r manuelle Adressen:** Im manuellen Adressfeld erfasst der Standort-Button den Standort auf Knopfdruck neu und trÃ¤gt StraÃŸe und Hausnummer automatisch ein.
-- ðŸ–¼ï¸ **Bildkarten-Export fÃ¼r Tages- & Wochenabschluss:** Teile deine Arbeitszeiten, Pausen und Trinkgeldstatistiken direkt als hochwertige Bildkarte (PNG) statt als reinen Text.
-- ðŸ’¬ **Nachricht fÃ¼r R+ mit 1-Tap:** Vordefiniertes Nachrichtenfeld im Tagesabschluss ([FrÃ¼hster Anfangszeitpunkt] bis [FrÃ¼hster Endzeitpunkt] mit [Pausenzeit gesamt] Minuten Pause) mit Direktexport und Kopieren.
-- ðŸ“Š **Erweiterte Analyse-Sortierung:** Schichten, Wochentage und PLZ-Gebiete flexibel nach Durchschnitt (Ã˜ Schnitt, Ã˜ pro Schicht, Ã˜ pro Stunde) oder Gesamtsumme sortieren.
-- ðŸ“ˆ **Prozentuale Trend-Entwicklung:** Interaktives Balkendiagramm zeigt unter jedem Balken die exakte prozentuale Entwicklung im Vergleich zum vorherigen Zeitraum.
-- ðŸ“Š **Tagesabschluss & Von-Bis-Auswertung:** Neuer Tagesabschluss-Button direkt auf dem Startbildschirm mit exakter Von-Bis-Arbeitszeit, Schichtpausen sowie Pausen zwischen zwei Schichten, tatsÃ¤chlicher Arbeitszeit (Netto) und direktem Teilen des Tages-Trinkgelds.
-- ðŸ“ˆ **Wochenabschluss & Samstags-Zusammenfassung:** Samstags nach der letzten Tour steht dein vollstÃ¤ndiger Wochenabschluss mit allen Arbeitszeiten, Pausen und Trinkgeldern bereit zum Teilen.
-- â° **Flexible Schicht-Erinnerungen:** WÃ¤hle mehrere Vorlaufzeiten gleichzeitig aus (z. B. 60 Min. und 15 Min.), um rechtzeitig an deine Schichten erinnert zu werden.
-- ðŸ§¹ **Automatische Dienstplan-Bereinigung:** Geplante Touren verschwinden automatisch aus den VorschlÃ¤gen, sobald sie absolviert und beendet wurden oder ihre Endzeit Ã¼berschritten ist â€“ Schichtenhistorie bleibt dauerhaft erhalten.
-- ðŸ“… **Picnic Online-Kalender-Sync & Routenzeiten:** Verbinde deinen persÃ¶nlichen Dienstplan-Link (ICS) â€“ Schichten, Zeiten und Hubs werden automatisch synchronisiert und Vorab-Zeiten auf finale Routenzeiten aktualisiert.
-- ðŸ“± **Android Homescreen-Widget:** Behalte deine Schicht und dein Trinkgeld direkt auf dem Startbildschirm im Blick â€“ inklusive Schnelltasten (+0,50 â‚¬, +1 â‚¬, +2 â‚¬), die blitzschnell im Hintergrund verbuchen.
-- âš¡ **Android App-Shortcuts:** Direkter Schichtstart und Express-Trinkgeldeingabe per Langdruck auf das App-Icon.
-- ðŸ“Š **Echtzeit-Berechnung & Tempo-Ticker:** Live-Berechnung von Stundenschnitt (â‚¬/h) und Stopp-Geschwindigkeit (Drops/h) ab der ersten Minute sowie Durchschnittsanzeige im Widget.
-- ðŸŽ¨ **AufgerÃ¤umtes Design & MenÃ¼fÃ¼hrung:** Logisch strukturierte Einstellungen, fehlerfreie Layouts ohne TextÃ¼berlÃ¤ufe und einheitliche mobile UI.
-- ðŸ’¡ **Kunden-GedÃ¤chtnis & Adress-Notizen:** Erkennt automatisch wiederholte Lieferadressen, zeigt bisherige Trinkgeld-Erfahrungen und erlaubt das Speichern wichtiger Adress-Notizen (z. B. TÃ¼rcodes, Klingeln, Etagen und Besonderheiten).
-- âœï¸ **Automatische Adress-VorausfÃ¼llung:** Bei manueller Adresskorrektur wird die erkannte Adresse sofort vorbelegt, sodass bei Bedarf nur noch die Hausnummer angepasst werden muss.
-- ðŸ“¤ **Schicht-Teilen & Bildkarten-Export:** Schichtergebnisse direkt nach Feierabend oder aus der Schichtenliste als formatierten Messenger-Text oder Bildkarte (PNG) mit Trinkgeld, Stopps, Schnitt und Quote teilen.
-- âš¡ **Schnelleinsicht & 1-Tap Notiz-Speicherung:** Direkte Notizenvorschau bei der Trinkgeldeingabe und praktische 1-Tap-Option zum dauerhaften Speichern von Kundennotizen.
-- ðŸ“‹ **LÃ¼ckenlose Multi-Version Changelogs:** Wenn du mehrere App-Updates auf einmal Ã¼berspringst, zeigt der â€žWas ist neuâ€œ-Dialog nun Ã¼bersichtlich alle Neuerungen aller Ã¼bersprungenen Versionen chronologisch untereinander an.
-- ðŸ“œ **Versionshistorie & Notizen:** Alle historischen Update-Highlights kÃ¶nnen jetzt jederzeit direkt Ã¼ber die Einstellungen (â€žVersionshistorie & Changelogâ€œ) nachgelesen werden.
-- âš¡ **Optimierte Update-PrÃ¼fung:** Schnellere Erkennung und zuverlÃ¤ssigere Anzeige von neuen Versionen direkt auf GitHub.
-- ðŸŽ¨ **Neues App-Icon & Android Adaptive Icons:** EigenstÃ¤ndiges, modernes App-Icon im Picnic-Design mit goldener Trinkgeld-MÃ¼nze und weiÃŸer Lieferwagen-Silhouette fÃ¼r alle Android Launcher (Kreis, Squircle, Rund).
-- â¸ï¸ **Pause-Modus wÃ¤hrend der Schicht:** Schneller Toggle zum Pausieren und Fortsetzen direkt auf dem Schicht-Banner.
-- â˜• **Pausen-Ãœbersicht & Nachtrag:** Netto-Arbeitszeit und Netto-Stundenschnitt bei Schichtende einsehen und Pausen flexibel anpassen (+15 Min, +30 Min).
-- ðŸŽ¨ **Optimierte Trinkgeld-Farben:** Frisches GrÃ¼n fÃ¼r Trinkgelder und edles Gold/Bernstein fÃ¼r Top-Trinkgelder (kein verwirrendes Rot mehr!).
-- ðŸŒ™ **Dark Mode Feinschliff:** Alle Karten, Marker, Dialoge und Steuerelemente harmonisch an dunkle HintergrÃ¼nde angepasst.
-- ðŸŽ¯ **Trinkgeld-Ziel PrÃ¤zisierung:** VollstÃ¤ndige Behebung der Wochen- vs. Monatsziel-Inkonsistenz â€“ Wochenziele berechnen und visualisieren nun exakt die laufende Kalenderwoche.
-- ðŸ”” **Benachrichtigungs-IntegritÃ¤t:** Eindeutige Trennung aller Android-Notification-IDs zur Vermeidung von Kollisionen zwischen Schnell-Speicher-BestÃ¤tigung und 6h-Schicht-Erinnerung.
-- ðŸ’µ **Feierabend-Check & Bargeld-Kassensturz:** Beim Beenden einer Tour zeigt die App sofort den exakten Bar-Betrag im Portemonnaie zum direkten NachzÃ¤hlen sowie den Dienstag-Hinweis fÃ¼r Picnic Digital-Trinkgeld.
-- ðŸ›°ï¸ **Treppenhaus-GPS & Stale-Signal-Warnung:** Intelligenter Fallback auf den letzten Standort vor dem GebÃ¤ude und automatische Warnung ("Signal vor X Min. alt"), falls der GPS-Standort veraltet sein sollte.
-- ðŸ“ **Hintergrund-Standortzugriff ("Immer zulassen"):** UnterstÃ¼tzung fÃ¼r Hintergrund-Ortung, um Koordinaten auch bei gesperrtem Bildschirm im e-Sprinter dauerhaft frisch zu halten.
-- â° **Schicht-Erinnerung & Intelligentes Schichtende:** Automatische Benachrichtigung nach 6 Stunden und Schichtabschluss-Dialog beim App-Start mit automatischer Endzeit-Erkennung aus Schicht-Vorlagen (z. B. E1).
-- ðŸ“¦ **Zentrale Daten- & Backup-Verwaltung:** CSV-Export, CSV-Import und vollstÃ¤ndige JSON-Backups Ã¼bersichtlich in einem aufgerÃ¤umten MenÃ¼ gebÃ¼ndelt.
-- ðŸ“ **Button-Layout & SQLite Foreign Keys:** Perfekt ausgerichtetes 4-Spalten-Raster fÃ¼r Trinkgeld-Buttons und aktivierte SQLite Foreign-Key-Pragmas.
-- ðŸ” **Interaktiver Analyse-Drilldown & Schichten-Slider:** Interaktiver Schichten-Slider in der unteren BildschirmhÃ¤lfte beim Antippen von PLZ, StraÃŸen, Wochentagen oder Schichten.
-- ðŸ“ˆ **Trend-Graph & ZeitrÃ¤ume:** Analyse Ã¼ber Wochen, Monate und Halbjahre fÃ¼r langfristige Trends.
-- ðŸ¢ **HubHelp Schicht-Tracking:** Erfassung von Innendienst- und HubHelp-Schichten am Picnic Hub zur lÃ¼ckenlosen Arbeitszeiterfassung.
-- ðŸ›¡ï¸ **Statistik-Schutz:** Trinkgeld-Durchschnitte (â‚¬/h, Stopp-Durchschnitte, Quoten) werden durch HubHelp-Stunden nicht verwÃ¤ssert.
-- ðŸ”„ **In-App Auto-Updater:** Automatische Erkennung und Download neuer Versionen direkt aus der App.
+- ðŸ† **Community-Rangliste & Orts-Radar:** Vergleiche deine Schichten anonym in der neuen Community-Rangliste (nach Gesamtsumme, Ã˜ Schnitt pro Stop und Trinkgeld-Quote) und entdecke im Orts-Radar die lukrativsten Liefergebiete â€“ 100 % datenschutzkonform und freiwillig.
+- ðŸ“² **Dateien direkt empfangen & importieren:** Empfange geteilte Backups (.json) und Schicht-Tabellen (.csv) direkt aus WhatsApp, E-Mail oder Dateimanager mit sofortiger Vorschau und 1-Tap-Import.
+- â° **Geplante Schichten flexibel starten:** Beim Starten einer vorgemerkten Tour frei wÃ¤hlen, ob die Schicht zur geplanten Dienstplan-Uhrzeit oder sofort beginnt.
+- ðŸ“… **Picnic Online-Kalender-Sync:** Verbinde deinen persÃ¶nlichen Dienstplan-Link (ICS) â€“ Schichten, Zeiten und Hubs werden automatisch synchronisiert und Vorab-Zeiten dynamisch auf finale Routenzeiten angepasst.
+- â° **Flexible Schicht-Erinnerungen & Dienstplan-Bereinigung:** Konfigurierbare Benachrichtigungen vor Tourbeginn (15 Min. bis 3 Std.) und automatisches Ausblenden bereits beendeter Touren.
+- ðŸ“Š **Tages- & Wochenabschluss mit Bildkarten:** Exakte Netto-Arbeitszeiten, Pausen-Ãœbersicht, 1-Tap-Nachricht fÃ¼r R+ sowie hochwertige Bildkarten (PNG) zum Teilen.
+- ðŸ“ **GebÃ¤ude-Auswahl & GPS auf der Karte:** Adressauswahl per Fingertipp auf GebÃ¤ude auf der Karte, eigener GPS-Standortmarker und SchnellÃ¼bernahme im manuellen Adressfeld.
+- ðŸ“ˆ **Erweiterte Analyse & Trends:** Schichten und Gebiete flexibel nach Durchschnitt oder Summe sortieren, interaktives Trenddiagramm mit %-Entwicklung und bereinigte Kundenquote.
+- ðŸŒ™ **Dark Mode Feinschliff & StabilitÃ¤t:** Perfekt lesbare Kontraste in Schichtdetails und digitalem Trinkgeld sowie 2-stufige Sicherheitsabfrage beim ZurÃ¼cksetzen von Daten.
 
 ---
 
