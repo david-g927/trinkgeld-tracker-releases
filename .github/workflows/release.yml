@@ -1,0 +1,83 @@
+name: Create GitHub Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag name (z.B. v1.21.0-beta.2)'
+        required: true
+        default: 'v1.21.0-beta.2'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine Tag and Channel
+        id: meta
+        run: |
+          if [ -n "${{ github.event.inputs.tag }}" ]; then
+            TAG="${{ github.event.inputs.tag }}"
+          else
+            TAG="${GITHUB_REF#refs/tags/}"
+          fi
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          if [[ "$TAG" == *"beta"* || "$TAG" == *"alpha"* || "$TAG" == *"rc"* ]]; then
+            echo "prerelease=true" >> $GITHUB_OUTPUT
+            echo "apk=Picnic-Trinkgeld-Tracker-Beta.apk" >> $GITHUB_OUTPUT
+          else
+            echo "prerelease=false" >> $GITHUB_OUTPUT
+            echo "apk=Picnic-Trinkgeld-Tracker.apk" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.meta.outputs.tag }}"
+          APK="${{ steps.meta.outputs.apk }}"
+          IS_PRE="${{ steps.meta.outputs.prerelease }}"
+
+          FLAGS=""
+          if [ "$IS_PRE" = "true" ]; then
+            FLAGS="--prerelease"
+            TITLE="Picnic Trinkgeld-Tracker $TAG (Beta)"
+            NOTES="### 🧪 Picnic Trinkgeld-Tracker $TAG (Vorab-Version)
+
+Vorab-Version zum Testen neuer Funktionen und Optimierungen.
+
+👉 Siehe README.md für Installationsanleitung und Details."
+          else
+            FLAGS="--latest"
+            TITLE="Picnic Trinkgeld-Tracker $TAG"
+            NOTES="### Picnic Trinkgeld-Tracker $TAG
+
+Offizielles Release-Paket mit kompilierter APK.
+
+👉 Siehe README.md für Installationsanleitung und Details."
+          fi
+
+          # If release already exists for this tag, delete it first to ensure clean state
+          gh release delete "$TAG" -y || true
+
+          if [ -f "$APK" ]; then
+            gh release create "$TAG" "$APK" \
+              --title "$TITLE" \
+              --notes "$NOTES" \
+              $FLAGS
+          else
+            gh release create "$TAG" \
+              --title "$TITLE" \
+              --notes "$NOTES" \
+              $FLAGS
+          fi
