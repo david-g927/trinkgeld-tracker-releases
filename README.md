@@ -1,31 +1,32 @@
-# ðŸ¥• Picnic Trinkgeld-Tracker â€“ Offizielle Releases & Downloads
+# 🥕 Picnic Trinkgeld-Tracker – Offizielle Releases & Downloads
 
 Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Trackers**!
 
 ---
 
-### ðŸ§ª Neueste Beta-Version herunterladen (v1.21.0-beta.1)
+### 🧪 Neueste Beta-Version herunterladen (v1.21.0-beta.2)
 
-ðŸ‘‰ **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.21.0-beta.1)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.21.0-beta.2)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
-ðŸ‘‰ **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
+👉 **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
-Alle Releases und Ã¤ltere Versionen findest du in der [Releases-Ãœbersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
-
----
-
-### ðŸš€ Was ist neu in Version 1.21.0?
-- ðŸ“± **Neue Android Homescreen-Widgets:** Drei brandneue Widgets fÃ¼r deinen Startbildschirm â€“ das **Schnell-Trinkgeld (Quick-Tip)** Widget zum sekundenschnellen Eintragen von Trinkgeld (+0,50 â‚¬, +1 â‚¬, +2 â‚¬), die **Monats-Statistik** fÃ¼r den schnellen MonatsÃ¼berblick und die **NÃ¤chste Tour** mit Datum, Uhrzeit und Hub auf einen Blick.
-- ðŸ“ **Frei skalierbare Widgets & verbesserte Launcher-Ansicht:** Alle Widgets passen sich flexibel an dein Homescreen-Raster an. Klare Beschreibungen in der Widget-Auswahl erleichtern das HinzufÃ¼gen.
-- ðŸ† **Community-Rangliste & Leaderboard Feinschliff:** Noch zuverlÃ¤ssigere Synchronisation, verbesserte Filter nach Hubs und optimierte Datenaktualisierung.
+Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](https://github.com/david-g927/trinkgeld-tracker-releases/releases).
 
 ---
 
-### ðŸ“± Installationshinweis fÃ¼r Android
+### 🚀 Was ist neu in Version 1.21.0?
+- ðŸŽ“ Trainer-Modus: UnterstÃ¼tzung fÃ¼r Schichten mit Trainee â€“ automatische Trainer-Zulage (+1,00 â‚¬/h) und direkte 50/50-Berechnung des Bar-Trinkgelds mit AuszahlungsÃ¼bersicht am Schichtende.
+- ðŸ§® Integrierter Gehaltsrechner: Wochen- und MonatsÃ¼bersicht fÃ¼r deinen Verdienst mit anpassbarem Stundenlohn, Zulagen und Hochrechnung inklusive geplanter Touren.
+- ðŸ“ Sprach-Erkennung fÃ¼r Adressen & Hausnummern: Die Spracheingabe erfasst ab sofort auch StraÃŸennamen (z. B. Buchenweg, KaiserstraÃŸe, Am Markt) und korrigiert Hausnummern (â€žHausnummer 14â€œ) freihÃ¤ndig in einem Satz.
+- ðŸŽ™ï¸ Adress-Schnelldiktat: Neues Mikrofonsymbol direkt am Adressfeld zum sekundenschnellen Einsprechen oder Korrigieren von Lieferadresse oder Hausnummer.
+
+---
+
+### 📱 Installationshinweis für Android
 1. Lade die Datei **Picnic-Trinkgeld-Tracker.apk** herunter.
-2. Ã–ffne die Datei auf deinem Android-Smartphone.
-3. Falls gefragt, erlaube die *Installation aus unbekannten Quellen* fÃ¼r deinen Browser / Dateimanager.
-4. Tippe auf **Installieren** bzw. **Aktualisieren** â€“ deine bisher erfassten Trinkgelder und Daten bleiben vollstÃ¤ndig erhalten!
+2. Öffne die Datei auf deinem Android-Smartphone.
+3. Falls gefragt, erlaube die *Installation aus unbekannten Quellen* für deinen Browser / Dateimanager.
+4. Tippe auf **Installieren** bzw. **Aktualisieren** – deine bisher erfassten Trinkgelder und Daten bleiben vollständig erhalten!
 
 ---
-*Hinweis: Dieses Repository dient ausschlieÃŸlich als Distributions- und Download-Portal.*
+*Hinweis: Dieses Repository dient ausschließlich als Distributions- und Download-Portal.*
