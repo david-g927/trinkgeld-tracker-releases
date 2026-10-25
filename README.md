@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### 🧪 Neueste Beta-Version herunterladen (v1.21.0-beta.3)
+### 🧪 Neueste Beta-Version herunterladen (v1.21.0-beta.4)
 
-👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.21.0-beta.3)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.21.0-beta.4)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 👉 **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -17,8 +17,10 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 ### 🚀 Was ist neu in Version 1.21.0?
 - ðŸŽ“ Trainer-Modus: UnterstÃ¼tzung fÃ¼r Schichten mit Trainee â€“ automatische Trainer-Zulage (+1,00 â‚¬/h) und direkte 50/50-Berechnung des Bar-Trinkgelds mit AuszahlungsÃ¼bersicht am Schichtende.
 - ðŸ§® Integrierter Gehaltsrechner: Wochen- und MonatsÃ¼bersicht fÃ¼r deinen Verdienst mit anpassbarem Stundenlohn, Zulagen und Hochrechnung inklusive geplanter Touren.
+- ðŸ›¡ï¸ Safety- & HubHelp-Schichten: Automatische Erkennung von HubHelp- und Safety-Schichten (z. B. Schulungen & Fortbildungen) anhand der Dienstplan-Zeiten mit exakter Gehaltserfassung.
 - ðŸ“ Sprach-Erkennung fÃ¼r Adressen & Hausnummern: Die Spracheingabe erfasst ab sofort auch StraÃŸennamen (z. B. Buchenweg, KaiserstraÃŸe, Am Markt) und korrigiert Hausnummern (â€žHausnummer 14â€œ) freihÃ¤ndig in einem Satz.
 - ðŸŽ™ï¸ Adress-Schnelldiktat: Neues Mikrofonsymbol direkt am Adressfeld zum sekundenschnellen Einsprechen oder Korrigieren von Lieferadresse oder Hausnummer.
+- ðŸ“ Optimierte BenutzeroberflÃ¤che: Umbruchoptimierte Schicht-Banner gegen Abschneiden im Hochformat sowie Schutz manuell bearbeiteter Schichten bei der Kalender-Synchronisation.
 
 ---
 
