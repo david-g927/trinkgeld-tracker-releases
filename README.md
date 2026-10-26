@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### 🧪 Neueste Beta-Version herunterladen (v1.21.0-beta.6)
+### 🧪 Neueste Beta-Version herunterladen (v1.22.0-beta.1)
 
-👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.21.0-beta.6)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.22.0-beta.1)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 👉 **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -14,13 +14,11 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 
 ---
 
-### 🚀 Was ist neu in Version 1.21.0?
-- ðŸŽ“ Trainer-Modus: UnterstÃ¼tzung fÃ¼r Schichten mit Trainee â€“ automatische Trainer-Zulage (+1,00 â‚¬/h) und direkte 50/50-Berechnung des Bar-Trinkgelds mit AuszahlungsÃ¼bersicht am Schichtende.
-- ðŸ§® Integrierter Gehaltsrechner: Wochen- und MonatsÃ¼bersicht fÃ¼r deinen Verdienst mit anpassbarem Stundenlohn, Zulagen und Hochrechnung inklusive geplanter Touren.
-- ðŸ›¡ï¸ Safety- & HubHelp-Schichten: Automatische Erkennung von HubHelp- und Safety-Schichten (z. B. Schulungen & Fortbildungen) anhand der Dienstplan-Zeiten mit exakter Gehaltserfassung.
-- ðŸ“ Sprach-Erkennung fÃ¼r Adressen & Hausnummern: Die Spracheingabe erfasst ab sofort auch StraÃŸennamen (z. B. Buchenweg, KaiserstraÃŸe, Am Markt) und korrigiert Hausnummern (â€žHausnummer 14â€œ) freihÃ¤ndig in einem Satz.
-- ðŸŽ™ï¸ Adress-Schnelldiktat: Neues Mikrofonsymbol direkt am Adressfeld zum sekundenschnellen Einsprechen oder Korrigieren von Lieferadresse oder Hausnummer.
-- ðŸ“ Optimierte BenutzeroberflÃ¤che: Umbruchoptimierte Schicht-Banner gegen Abschneiden im Hochformat sowie Schutz manuell bearbeiteter Schichten bei der Kalender-Synchronisation.
+### 🚀 Was ist neu in Version 1.22.0?
+- ðŸ‘¥ Freunde-System & Runner-Code: Tausche deinen persÃ¶nlichen Code (z. B. RUN-8492) oder QR-Code mit Kollegen am Hub aus, um euch zu befreunden und Anfragen direkt zu verwalten.
+- ðŸ‘ï¸ Zuschauer-Modus (Spectator Mode): Erlebe die App aus der Sicht deiner Freunde â€“ sieh ihre anstehenden Touren, Schichtergebnisse und Monats-Statistiken in Echtzeit.
+- âš”ï¸ Head-to-Head Duell: Fordere deine Freunde zum direkten Duell heraus! Vergleiche Monats-Trinkgeld, Ã˜-Schnitt pro Stop, Quoten und direkte Tagesschicht-Ergebnisse inklusive WhatsApp-Teilen.
+- ðŸ”’ Strikte PrivatsphÃ¤re: Private Kundendaten, Adressen, Hausnummern, Notizen und StundenlÃ¶hne bleiben zu 100 % geschÃ¼tzt auf deinem Smartphone.
 
 ---
 
