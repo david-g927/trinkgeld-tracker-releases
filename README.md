@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### 🧪 Neueste Beta-Version herunterladen (v1.23.0-beta.3)
+### 🧪 Neueste Beta-Version herunterladen (v1.23.0-beta.4)
 
-👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.23.0-beta.3)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.23.0-beta.4)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 👉 **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -20,7 +20,7 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 - ðŸš€ Vorab-Schichten flexibel starten: Vorgeplante Schichten kÃ¶nnen direkt von der Startseite vorzeitig gestartet oder in der Startzeit angepasst werden.
 - ðŸ Automatischer Tagesabschluss: Nach Beenden der letzten Schicht des Tages Ã¶ffnet sich automatisch die Tagesabschluss-Ãœbersicht fÃ¼r einen direkten Ãœberblick.
 - ðŸŽ“ Flexible Trainee-Aufteilung: Beim Schichtabschluss mit Trainee kann die Trinkgeld-Aufteilung individuell per Schnellwahltasten oder als genauer Betrag festgelegt werden.
-- ðŸŽ¯ PrÃ¤zise Monatsziel-Berechnung: Der Monatsziel-Ertrag erfasst nun auch unzugeordnete digitale SammelbetrÃ¤ge synchron zur Gesamtanalyse.
+- ðŸŽ¯ PrÃ¤zise Monatsziel-Berechnung: Exakte Abstimmung zwischen Startseite und Analyse â€“ digitale SammelbetrÃ¤ge und Pauschalen werden synchron und ohne DoppelzÃ¤hlung gewertet.
 - ðŸ“Š StraÃŸen-Analyse bereinigt: Unzugeordnetes digitales Trinkgeld wird nicht mehr fÃ¤lschlicherweise in den Top-StraÃŸen aufgefÃ¼hrt.
 - ðŸ“ Exakter GPS-Standort fÃ¼r Schnell-Trinkgeld: Beim Erfassen von Trinkgeld Ã¼ber Widget oder Benachrichtigung wird vorab der aktuelle GPS-Standort samt Adresse ermittelt.
 - ðŸ“ Optimierte BenutzeroberflÃ¤che: Umfassende Behebung von Layout- und TextÃ¼berlÃ¤ufen auf schmalen Bildschirmen sowie verbesserte Dialogansichten.
