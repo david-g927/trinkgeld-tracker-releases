@@ -4,9 +4,9 @@ Herzlich willkommen im offiziellen Download-Portal des **Picnic Trinkgeld-Tracke
 
 ---
 
-### 🧪 Neueste Beta-Version herunterladen (v1.23.0-beta.5)
+### 🧪 Neueste Beta-Version herunterladen (v1.23.0-beta.6)
 
-👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.23.0-beta.5)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
+👉 **[Direkter Beta-Download: Picnic-Trinkgeld-Tracker-Beta.apk (v1.23.0-beta.6)](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker-Beta.apk)**
 
 👉 **[Offizielles Haupt-Release: Picnic-Trinkgeld-Tracker.apk](https://github.com/david-g927/trinkgeld-tracker-releases/raw/main/Picnic-Trinkgeld-Tracker.apk)**
 
@@ -15,6 +15,14 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 ---
 
 ### 🚀 Was ist neu in Version 1.23.0?
+- ðŸ”„ Schicht-Wiederherstellung: Versehentlich gelÃ¶schte geplante Schichten erscheinen automatisch wieder unter den anstehenden Touren, solange die Schichtzeit noch nicht verstrichen ist.
+- â±ï¸ Geplante Schichtzeit im Blick: Das Schicht-Banner zeigt wÃ¤hrend der aktiven Tour jederzeit das geplante Schichtende an, um die Arbeitszeit optimal einzuteilen.
+- ðŸš€ Vorab-Schichten flexibel starten: Vorgeplante Schichten kÃ¶nnen direkt von der Startseite vorzeitig gestartet oder in der Startzeit angepasst werden.
+- ðŸ Automatischer Tagesabschluss: Nach Beenden der letzten Schicht des Tages Ã¶ffnet sich automatisch die Tagesabschluss-Ãœbersicht fÃ¼r einen direkten Ãœberblick.
+- ðŸŽ“ Flexible Trainee-Aufteilung: Beim Schichtabschluss mit Trainee kann die Trinkgeld-Aufteilung individuell per Schnellwahltasten oder als genauer Betrag festgelegt werden.
+- ðŸŽ¯ PrÃ¤zise Monatsziel-Berechnung: Exakte Abstimmung zwischen Startseite und Analyse â€“ digitale SammelbetrÃ¤ge und Pauschalen werden synchron und ohne DoppelzÃ¤hlung gewertet.
+- ðŸ“Š StraÃŸen-Analyse bereinigt: Unzugeordnetes digitales Trinkgeld wird nicht mehr fÃ¤lschlicherweise in den Top-StraÃŸen aufgefÃ¼hrt.
+- ðŸ“ Exakter GPS-Standort fÃ¼r Schnell-Trinkgeld: Beim Erfassen von Trinkgeld Ã¼ber Widget oder Benachrichtigung wird vorab der aktuelle GPS-Standort samt Adresse ermittelt.
 - ðŸ›¡ï¸ Umfassende System- & Schnittstellen-HÃ¤rtung: Robuste Absicherung aller Schnittstellen, verbesserter Schutz vor Fehleingaben und erhÃ¶hte ZuverlÃ¤ssigkeit im Offline-Betrieb.
 - ðŸ”’ Erweiterter Schutz fÃ¼r Adressdaten: Automatisch aktiver Schutz sensibler Privatadressen sowie verbesserte Warnhinweise beim Datenexport.
 - ðŸ§® Gehaltsrechner & Schichtlogik optimiert: Exakte Berechnung aller Arbeitszeiten ohne Ãœberschneidungen und optimierte BerÃ¼cksichtigung von Zulagen und Pauschalen.
