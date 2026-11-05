@@ -15,7 +15,16 @@ Alle Releases und ältere Versionen findest du in der [Releases-Übersicht](http
 ---
 
 ### 🚀 Was ist neu in Version 1.23.0?
+- ðŸ”„ Schicht-Wiederherstellung: Versehentlich gelÃ¶schte geplante Schichten erscheinen automatisch wieder unter den anstehenden Touren, solange die Schichtzeit noch nicht verstrichen ist.
+- â±ï¸ Geplante Schichtzeit im Blick: Das Schicht-Banner zeigt wÃ¤hrend der aktiven Tour jederzeit das geplante Schichtende an, um die Arbeitszeit optimal einzuteilen.
+- ðŸš€ Vorab-Schichten flexibel starten: Vorgeplante Schichten kÃ¶nnen direkt von der Startseite vorzeitig gestartet oder in der Startzeit angepasst werden.
+- ðŸ Automatischer Tagesabschluss: Nach Beenden der letzten Schicht des Tages Ã¶ffnet sich automatisch die Tagesabschluss-Ãœbersicht fÃ¼r einen direkten Ãœberblick.
+- ðŸŽ“ Flexible Trainee-Aufteilung: Beim Schichtabschluss mit Trainee kann die Trinkgeld-Aufteilung individuell per Schnellwahltasten oder als genauer Betrag festgelegt werden.
+- ðŸŽ¯ PrÃ¤zise Monatsziel-Berechnung: Exakte Abstimmung zwischen Startseite und Analyse â€“ digitale SammelbetrÃ¤ge und Pauschalen werden synchron und ohne DoppelzÃ¤hlung gewertet.
+- ðŸ“Š StraÃŸen-Analyse bereinigt: Unzugeordnetes digitales Trinkgeld wird nicht mehr fÃ¤lschlicherweise in den Top-StraÃŸen aufgefÃ¼hrt.
+- ðŸ“ Exakter GPS-Standort fÃ¼r Schnell-Trinkgeld: Beim Erfassen von Trinkgeld Ã¼ber Widget oder Benachrichtigung wird vorab der aktuelle GPS-Standort samt Adresse ermittelt.
 - ðŸ›¡ï¸ Umfassende System- & Schnittstellen-HÃ¤rtung: Robuste Absicherung aller Schnittstellen, verbesserter Schutz vor Fehleingaben und erhÃ¶hte ZuverlÃ¤ssigkeit im Offline-Betrieb.
+- ðŸ”’ Erweiterter Schutz fÃ¼r Adressdaten: Automatisch aktiver Schutz sensibler Privatadressen sowie verbesserte Warnhinweise beim Datenexport.
 - ðŸ§® Gehaltsrechner & Schichtlogik optimiert: Exakte Berechnung aller Arbeitszeiten ohne Ãœberschneidungen und optimierte BerÃ¼cksichtigung von Zulagen und Pauschalen.
 - ðŸ“Š WochenÃ¼bersicht & Schichtanzeige: Safety-Schichten zeigen in der Analyse jetzt transparent die Schichtdauer analog zu HubHelp-EinsÃ¤tzen.
 - ðŸ’¾ Verbesserte Daten- & Backup-IntegritÃ¤t: HÃ¶chste ZuverlÃ¤ssigkeit beim Sichern und Wiederherstellen deiner Schichten und Notizen durch voll-atomare Datenbanktransaktionen.
